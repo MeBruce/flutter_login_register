@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "E:/App_todo_list/apptodo/flutter_login/linux"
+}
